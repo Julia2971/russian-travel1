@@ -1,0 +1,11 @@
+.header__lang-link{
+font-family: "Inter", "Arial", sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+text-align: right;
+color: white;
+}
+.header__lang-link:first-of-type{
+    margin-right: 18px;
+}
