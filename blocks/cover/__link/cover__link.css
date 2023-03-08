@@ -15,6 +15,7 @@
   transition: opacity 1s ease-out;
   z-index: 1;
 }
+
 .cover__link::before {
   position: absolute;
   height: 100%;
@@ -23,9 +24,11 @@
   background-color: rgba(42, 44, 47, 0.3);
   z-index: -1;
 }
+
 .cover__link:hover::before {
   background-color: rgba(42, 44, 47, 0.8);
 }
+
 @media screen and (max-width: 1279px) {
   .cover__link {
     width: 100%;

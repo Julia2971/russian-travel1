@@ -6,6 +6,7 @@
   align-content: center;
   margin: auto;
 }
+
 @media screen and (max-width: 1279px) {
   .lead {
     width: calc(100% - 48px * 2);

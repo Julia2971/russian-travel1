@@ -5,6 +5,7 @@
   font-style: normal;
   font-weight: 400;
 }
+
 @font-face {
   src: url(./Inter-Bold.woff) format("woff"),
     url(./Inter-Bold.woff2) format("woff2");
@@ -12,6 +13,7 @@
   font-style: normal;
   font-weight: 700;
 }
+
 @font-face {
   src: url(./Inter-Black.woff) format("woff"),
     url(./Inter-Black.woff2) format("woff2");

@@ -3,15 +3,16 @@
   background-color: #2a2c2f;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding-top: 28px;
   margin: auto;
 }
+
 @media screen and (max-width: 1023px) {
   .header {
     width: calc(100% - 24px * 2);
   }
 }
+
 @media screen and (max-width: 767px) {
   .header {
     width: calc(100% - 16px * 2);
